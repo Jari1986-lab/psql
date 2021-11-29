@@ -1,0 +1,27 @@
+html {
+    background-image: url('/img/pelihylly.jpg');
+    background-size: cover;
+}
+
+h1 {
+    color: blue;
+    font-size: 50px;
+    }
+
+
+#pelit {
+    background-color: rgb(127, 127, 158);
+  
+
+}
+
+#lisaa {
+    background-color: green;
+    cursor: pointer;
+  
+}
+
+#poistaa {
+    background-color: red;
+    cursor: pointer;
+}
